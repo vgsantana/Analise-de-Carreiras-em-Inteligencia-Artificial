@@ -1,6 +1,6 @@
 # 📊 Análise de Carreiras em Inteligência Artificial
 
-Este projeto analisa o mercado global de carreiras relacionadas à Inteligência Artificial, com foco em entender os fatores que influenciam salários, oportunidades, crescimento profissional e satisfação dos profissionais.
+Projeto de análise de dados focado em identificar os principais fatores que influenciam salários, oportunidades e satisfação em carreiras de IA no cenário global.
 
 A análise foi construída a partir de um dataset global, explorando variáveis como país, experiência, indústria, adoção de IA e indicadores de mercado.
 
