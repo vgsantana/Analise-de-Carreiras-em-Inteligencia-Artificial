@@ -28,6 +28,9 @@ Pandas
 
 Looker Studio
 
+# 🔗 Link do Dashboard
+https://lookerstudio.google.com/s/pqOPcfaTnAY
+
 # 🔄 Metodologia do Projeto
 
 O desenvolvimento do projeto seguiu um fluxo estruturado de análise de dados:
